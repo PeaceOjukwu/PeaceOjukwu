@@ -1,14 +1,14 @@
 ### Hi there 👋
 My name is Chiamaka Peace Ojukwu, a Data Analyst with track record of problem solving and solution making. With a mixture of skill in Data collection, Data Analysis,Data visualization, and Data exploration.
-- 🔭 I’m a freelancer and still looking to up my skill
+I’m a freelancer and still looking to up my skill
 
-###TECHNICAL SKILLS
+TECHNICAL SKILLS
 -Programming languages; Python and R
 -SQL
 -Microsoft excel
 -Power BI
 
-###STRENGTHS
+STRENGTHS
 •	Analytical skills
 •	Quality Control
 •	Problem solving skills
