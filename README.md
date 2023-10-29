@@ -4,8 +4,11 @@ I’m a freelancer and still looking to up my skill
 
 TECHNICAL SKILLS
 -Programming languages; Python and R
+
 -SQL
+
 -Microsoft excel
+
 -Power BI
 
 STRENGTHS
