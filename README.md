@@ -3,6 +3,7 @@ My name is Chiamaka Peace Ojukwu, a Data Analyst with track record of problem so
 I’m a freelancer and still looking to up my skill
 
 TECHNICAL SKILLS
+
 -Programming languages; Python and R
 
 -SQL
