@@ -12,9 +12,8 @@ TECHNICAL SKILLS
 -Power BI
 
 STRENGTHS
-•	Analytical skills
 
-•	Quality Control
+•	Analytical skills
 
 •	Problem solving skills
 
