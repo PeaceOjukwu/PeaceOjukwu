@@ -13,6 +13,8 @@ STRENGTHS
 •	Quality Control
 •	Problem solving skills
 
-- 👯 I’m looking forward to connect with you
+ I’m looking forward to connect with you
+
 Email: ojukwu_chiamaka@yahoo.com
+
 LinkedIn: www.LinkedIn.com/in/peace-ojukwu
