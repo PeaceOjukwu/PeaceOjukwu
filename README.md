@@ -13,7 +13,9 @@ TECHNICAL SKILLS
 
 STRENGTHS
 •	Analytical skills
+
 •	Quality Control
+
 •	Problem solving skills
 
  I’m looking forward to connect with you
